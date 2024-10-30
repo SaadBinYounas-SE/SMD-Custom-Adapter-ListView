@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Customized Listview &amp; Adapter</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="dummy_icon">Dummy Icon</string>
+    <string name="_03324485239">03324485239</string>
+    <string name="name">Name</string>
+    <string name="dummy_delete">dummy_delete</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_phone_number">Enter the phone number</string>
+</resources>
